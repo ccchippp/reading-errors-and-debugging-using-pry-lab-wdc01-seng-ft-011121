@@ -16,7 +16,6 @@ def selection(num)
   elsif num = 2
      p "HAM HAM HAM IN MY TUMMY"
   end
-num = num + 1
 end
 
 def runner
